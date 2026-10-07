@@ -6,7 +6,7 @@ import easyocr
 from gtts import gTTS
 import os
 from PIL import Image
-
+#change
 # --- 1. SETTINGS & BEAUTIFUL UI ---
 st.set_page_config(page_title="Visionary AI Glasses", layout="wide", page_icon="🕶️")
 
